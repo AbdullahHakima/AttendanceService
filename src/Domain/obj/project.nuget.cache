@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZhfTk1n8+Yw=",
+  "dgSpecHash": "MXUL2SLTNgc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Data.csproj",
+  "projectFilePath": "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Domain\\Data.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

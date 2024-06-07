@@ -1,15 +1,15 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Api\\",
+  "WorkspaceRootPath": "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FC06D7C-77E1-46D6-ACD9-8B667BF47CEE}|..\\Domain\\Data.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\domain\\entities\\attendancesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Entities\\AttendanceSession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FC06D7C-77E1-46D6-ACD9-8B667BF47CEE}|..\\Domain\\Data.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\domain\\helpers\\dtos\\attedancesessions\\viewinstructorsessionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Helpers\\Dtos\\AttedanceSessions\\ViewInstructorSessionsDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FC06D7C-77E1-46D6-ACD9-8B667BF47CEE}|..\\Domain\\Data.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\domain\\helpers\\dtos\\attedancesessions\\viewsessiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Helpers\\Dtos\\AttedanceSessions\\ViewSessionDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,7 +19,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,17 +30,13 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AttendanceSession.cs",
               "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Entities\\AttendanceSession.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\Entities\\AttendanceSession.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AttendanceService\\src\\Domain\\Entities\\AttendanceSession.cs",
               "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Entities\\AttendanceSession.cs",
-              "RelativeToolTip": "..\\Domain\\Entities\\AttendanceSession.cs",
+              "RelativeToolTip": "..\\..\\..\\AttendanceService\\src\\Domain\\Entities\\AttendanceSession.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T14:56:48.635Z",
@@ -51,26 +47,24 @@
               "DocumentIndex": 1,
               "Title": "ViewInstructorSessionsDto.cs",
               "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Helpers\\Dtos\\AttedanceSessions\\ViewInstructorSessionsDto.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\Helpers\\Dtos\\AttedanceSessions\\ViewInstructorSessionsDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AttendanceService\\src\\Domain\\Helpers\\Dtos\\AttedanceSessions\\ViewInstructorSessionsDto.cs",
               "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Helpers\\Dtos\\AttedanceSessions\\ViewInstructorSessionsDto.cs",
-              "RelativeToolTip": "..\\Domain\\Helpers\\Dtos\\AttedanceSessions\\ViewInstructorSessionsDto.cs",
+              "RelativeToolTip": "..\\..\\..\\AttendanceService\\src\\Domain\\Helpers\\Dtos\\AttedanceSessions\\ViewInstructorSessionsDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T14:56:37.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T14:56:37.934Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ViewSessionDto.cs",
               "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Helpers\\Dtos\\AttedanceSessions\\ViewSessionDto.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\Helpers\\Dtos\\AttedanceSessions\\ViewSessionDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AttendanceService\\src\\Domain\\Helpers\\Dtos\\AttedanceSessions\\ViewSessionDto.cs",
               "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Helpers\\Dtos\\AttedanceSessions\\ViewSessionDto.cs",
-              "RelativeToolTip": "..\\Domain\\Helpers\\Dtos\\AttedanceSessions\\ViewSessionDto.cs",
+              "RelativeToolTip": "..\\..\\..\\AttendanceService\\src\\Domain\\Helpers\\Dtos\\AttedanceSessions\\ViewSessionDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T14:55:36.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T14:55:36.696Z"
             }
           ]
         }

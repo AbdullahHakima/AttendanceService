@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Core.csproj": {}
+    "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Core.csproj": {
+    "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\sohee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\obj\\",
+        "outputPath": "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages"
@@ -34,14 +34,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Data.csproj": {
-                "projectPath": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Data.csproj"
+              "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Domain\\Data.csproj": {
+                "projectPath": "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Domain\\Data.csproj"
               },
-              "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Infrastructure\\Infrastructure.csproj"
               },
-              "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Service\\Service.csproj"
+              "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Service\\Service.csproj"
               }
             }
           }
@@ -122,14 +122,14 @@
         }
       }
     },
-    "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Data.csproj": {
+    "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Domain\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Domain\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Data.csproj",
+        "projectPath": "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Domain\\Data.csproj",
         "packagesPath": "C:\\Users\\sohee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages"
@@ -188,14 +188,14 @@
         }
       }
     },
-    "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\sohee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages"
@@ -218,8 +218,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Data.csproj": {
-                "projectPath": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Data.csproj"
+              "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Domain\\Data.csproj": {
+                "projectPath": "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Domain\\Data.csproj"
               }
             }
           }
@@ -290,14 +290,14 @@
         }
       }
     },
-    "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Service\\Service.csproj": {
+    "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Service\\Service.csproj",
+        "projectPath": "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\sohee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Service\\obj\\",
+        "outputPath": "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages"
@@ -320,11 +320,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Data.csproj": {
-                "projectPath": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Data.csproj"
+              "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Domain\\Data.csproj": {
+                "projectPath": "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Domain\\Data.csproj"
               },
-              "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }

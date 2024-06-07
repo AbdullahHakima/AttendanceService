@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wxC7ue7IPKA=",
+  "dgSpecHash": "Dso7niavYms=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\sohee\\source\\repos\\Attendance-srv\\src\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sohee\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\sohee\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
@@ -45,12 +45,5 @@
     "C:\\Users\\sohee\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\sohee\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
-    }
-  ]
+  "logs": []
 }
