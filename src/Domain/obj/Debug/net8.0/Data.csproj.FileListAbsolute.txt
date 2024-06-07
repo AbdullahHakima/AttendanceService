@@ -5,6 +5,7 @@ C:\Users\sohee\source\repos\AttendanceService\src\Domain\obj\Debug\net8.0\Data.G
 C:\Users\sohee\source\repos\AttendanceService\src\Domain\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
 C:\Users\sohee\source\repos\AttendanceService\src\Domain\obj\Debug\net8.0\Data.AssemblyInfo.cs
 C:\Users\sohee\source\repos\AttendanceService\src\Domain\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\sohee\source\repos\AttendanceService\src\Domain\obj\Debug\net8.0\Data.sourcelink.json
 C:\Users\sohee\source\repos\AttendanceService\src\Domain\obj\Debug\net8.0\Data.dll
 C:\Users\sohee\source\repos\AttendanceService\src\Domain\obj\Debug\net8.0\refint\Data.dll
 C:\Users\sohee\source\repos\AttendanceService\src\Domain\obj\Debug\net8.0\Data.pdb

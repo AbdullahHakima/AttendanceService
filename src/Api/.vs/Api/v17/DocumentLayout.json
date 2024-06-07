@@ -3,139 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FC06D7C-77E1-46D6-ACD9-8B667BF47CEE}|..\\Domain\\Data.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\domain\\helpers\\enums\\attendancestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FC06D7C-77E1-46D6-ACD9-8B667BF47CEE}|..\\Domain\\Data.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\domain\\entities\\attendancesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B88415EF-C5D5-4AEC-9217-68040AECED29}|..\\Service\\Service.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\service\\services\\attendancerecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{307F93D2-3D29-4F7F-A888-EDF49670072C}|Api.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\api\\controllers\\attendnacerecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{307F93D2-3D29-4F7F-A888-EDF49670072C}|Api.csproj|solutionrelative:controllers\\attendnacerecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6D20576-B539-4DFA-B3F8-4458D2E625F4}|..\\Core\\Core.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\core\\features\\attendancerecords\\commands\\handlers\\attendnacerecordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1FACC4C-5E68-4CC4-BDFA-15510373C79E}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\infrastructure\\repositories\\attendancesessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B88415EF-C5D5-4AEC-9217-68040AECED29}|..\\Service\\Service.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\service\\services\\distancesolverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B88415EF-C5D5-4AEC-9217-68040AECED29}|..\\Service\\Service.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\service\\moduleservicedependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B88415EF-C5D5-4AEC-9217-68040AECED29}|..\\Service\\Service.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\service\\services\\scheduledtaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B88415EF-C5D5-4AEC-9217-68040AECED29}|..\\Service\\Service.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\service\\services\\attendancesessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B88415EF-C5D5-4AEC-9217-68040AECED29}|..\\Service\\Service.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\service\\interfaces\\ischeduledtaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{307F93D2-3D29-4F7F-A888-EDF49670072C}|Api.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{307F93D2-3D29-4F7F-A888-EDF49670072C}|Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B88415EF-C5D5-4AEC-9217-68040AECED29}|..\\Service\\Service.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\service\\interfaces\\iattendancesessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B88415EF-C5D5-4AEC-9217-68040AECED29}|..\\Service\\Service.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\service\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B88415EF-C5D5-4AEC-9217-68040AECED29}|..\\Service\\Service.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\service\\interfaces\\idistancesolverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B88415EF-C5D5-4AEC-9217-68040AECED29}|..\\Service\\Service.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\service\\interfaces\\iattendancerecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1FACC4C-5E68-4CC4-BDFA-15510373C79E}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\infrastructure\\repositories\\attendancerecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1FACC4C-5E68-4CC4-BDFA-15510373C79E}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\infrastructure\\interfaces\\iattendancerecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1FACC4C-5E68-4CC4-BDFA-15510373C79E}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\infrastructure\\interfaces\\iattendancesessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6D20576-B539-4DFA-B3F8-4458D2E625F4}|..\\Core\\Core.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\core\\mapping\\attendnacerecordmapping\\recordcommandmapping\\markattendancerecordmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6D20576-B539-4DFA-B3F8-4458D2E625F4}|..\\Core\\Core.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\core\\mapping\\attendnacerecordmapping\\attendnacerecordprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FC06D7C-77E1-46D6-ACD9-8B667BF47CEE}|..\\Domain\\Data.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\domain\\metadata\\router.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6D20576-B539-4DFA-B3F8-4458D2E625F4}|..\\Core\\Core.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\core\\mapping\\attendancesessionmapping\\attendancesessionprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6D20576-B539-4DFA-B3F8-4458D2E625F4}|..\\Core\\Core.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\core\\features\\attendancerecords\\commands\\models\\add\\markattendancecommandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6D20576-B539-4DFA-B3F8-4458D2E625F4}|..\\Core\\Core.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\core\\mapping\\attendancesessionmapping\\attendancesessioncommandmapping\\addsessionmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FC06D7C-77E1-46D6-ACD9-8B667BF47CEE}|..\\Domain\\Data.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\domain\\helpers\\dtos\\attendancerecords\\addattendnacerecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FC06D7C-77E1-46D6-ACD9-8B667BF47CEE}|..\\Domain\\Data.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\domain\\entities\\attendancerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{307F93D2-3D29-4F7F-A888-EDF49670072C}|Api.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\api\\controllers\\attendancesessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{307F93D2-3D29-4F7F-A888-EDF49670072C}|Api.csproj|solutionrelative:controllers\\attendancesessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6D20576-B539-4DFA-B3F8-4458D2E625F4}|..\\Core\\Core.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\core\\features\\attendancesessions\\queries\\handlers\\attendancesessionqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6D20576-B539-4DFA-B3F8-4458D2E625F4}|..\\Core\\Core.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\core\\mapping\\attendancesessionmapping\\attendancesessionquerymapping\\getsessionsquerymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6D20576-B539-4DFA-B3F8-4458D2E625F4}|..\\Core\\Core.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\core\\mapping\\locationmapping\\locationquerymapping\\getlocationsquerymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6D20576-B539-4DFA-B3F8-4458D2E625F4}|..\\Core\\Core.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\core\\features\\attendancesessions\\queries\\responses\\getsessionsqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6D20576-B539-4DFA-B3F8-4458D2E625F4}|..\\Core\\Core.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\core\\features\\attendancesessions\\queries\\responses\\getsessionqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FC06D7C-77E1-46D6-ACD9-8B667BF47CEE}|..\\Domain\\Data.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\domain\\helpers\\dtos\\attedancesessions\\viewinstructorsessionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FC06D7C-77E1-46D6-ACD9-8B667BF47CEE}|..\\Domain\\Data.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\domain\\helpers\\dtos\\attedancesessions\\viewsessiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6D20576-B539-4DFA-B3F8-4458D2E625F4}|..\\Core\\Core.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\core\\mapping\\locationmapping\\locationquerymapping\\viewlocationmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6D20576-B539-4DFA-B3F8-4458D2E625F4}|..\\Core\\Core.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\core\\features\\attendancesessions\\queries\\models\\getsessionquerymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6D20576-B539-4DFA-B3F8-4458D2E625F4}|..\\Core\\Core.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\core\\mapping\\attendancesessionmapping\\attendancesessionquerymapping\\viewsessionmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6D20576-B539-4DFA-B3F8-4458D2E625F4}|..\\Core\\Core.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\core\\features\\attendancesessions\\commands\\handlers\\attedanacesessioncommandhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B88415EF-C5D5-4AEC-9217-68040AECED29}|..\\Service\\Service.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\service\\services\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6D20576-B539-4DFA-B3F8-4458D2E625F4}|..\\Core\\Core.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\core\\features\\attendancesessions\\commands\\models\\add\\addsessioncommandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Infrastructure\\Migrations\\20240508193506_ update AttendanceSession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FC06D7C-77E1-46D6-ACD9-8B667BF47CEE}|..\\Domain\\Data.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\domain\\helpers\\dtos\\attedancesessions\\addsessiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6D20576-B539-4DFA-B3F8-4458D2E625F4}|..\\Core\\Core.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\core\\modulecoredependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1FACC4C-5E68-4CC4-BDFA-15510373C79E}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\infrastructure\\migrations\\20240508193925_update attendancesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1FACC4C-5E68-4CC4-BDFA-15510373C79E}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\sohee\\source\\repos\\attendanceservice\\src\\infrastructure\\migrations\\20240508193641_update attendancesession which add endat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -145,539 +19,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AttendanceStatus.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Helpers\\Enums\\AttendanceStatus.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\Helpers\\Enums\\AttendanceStatus.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Helpers\\Enums\\AttendanceStatus.cs*",
-              "RelativeToolTip": "..\\Domain\\Helpers\\Enums\\AttendanceStatus.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Title": "AttendanceSession.cs",
+              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Entities\\AttendanceSession.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\AttendanceSession.cs",
+              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Entities\\AttendanceSession.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\AttendanceSession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T21:30:30.043Z",
+              "WhenOpened": "2024-06-05T14:56:48.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AttendnaceRecordCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Features\\AttendanceRecords\\Commands\\Handlers\\AttendnaceRecordCommandHandler.cs",
-              "RelativeDocumentMoniker": "..\\Core\\Features\\AttendanceRecords\\Commands\\Handlers\\AttendnaceRecordCommandHandler.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Features\\AttendanceRecords\\Commands\\Handlers\\AttendnaceRecordCommandHandler.cs",
-              "RelativeToolTip": "..\\Core\\Features\\AttendanceRecords\\Commands\\Handlers\\AttendnaceRecordCommandHandler.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAUwBoAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T16:32:45.293Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AttendanceRecordService.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Service\\Services\\AttendanceRecordService.cs",
-              "RelativeDocumentMoniker": "..\\Service\\Services\\AttendanceRecordService.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Service\\Services\\AttendanceRecordService.cs",
-              "RelativeToolTip": "..\\Service\\Services\\AttendanceRecordService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAANAAAA",
+              "Title": "ViewInstructorSessionsDto.cs",
+              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Helpers\\Dtos\\AttedanceSessions\\ViewInstructorSessionsDto.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Helpers\\Dtos\\AttedanceSessions\\ViewInstructorSessionsDto.cs",
+              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Helpers\\Dtos\\AttedanceSessions\\ViewInstructorSessionsDto.cs",
+              "RelativeToolTip": "..\\Domain\\Helpers\\Dtos\\AttedanceSessions\\ViewInstructorSessionsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:38:15.356Z"
+              "WhenOpened": "2024-06-05T14:56:37.934Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AttendnaceRecordsController.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Api\\Controllers\\AttendnaceRecordsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AttendnaceRecordsController.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Api\\Controllers\\AttendnaceRecordsController.cs",
-              "RelativeToolTip": "Controllers\\AttendnaceRecordsController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T17:13:26.511Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ScheduledTaskService.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Service\\Services\\ScheduledTaskService.cs",
-              "RelativeDocumentMoniker": "..\\Service\\Services\\ScheduledTaskService.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Service\\Services\\ScheduledTaskService.cs",
-              "RelativeToolTip": "..\\Service\\Services\\ScheduledTaskService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T18:43:10.98Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ModuleServiceDependencies.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Service\\ModuleServiceDependencies.cs",
-              "RelativeDocumentMoniker": "..\\Service\\ModuleServiceDependencies.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Service\\ModuleServiceDependencies.cs",
-              "RelativeToolTip": "..\\Service\\ModuleServiceDependencies.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAmwDEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T16:00:34.956Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IScheduledTaskService.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Service\\Interfaces\\IScheduledTaskService.cs",
-              "RelativeDocumentMoniker": "..\\Service\\Interfaces\\IScheduledTaskService.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Service\\Interfaces\\IScheduledTaskService.cs",
-              "RelativeToolTip": "..\\Service\\Interfaces\\IScheduledTaskService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T18:42:25.184Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Api\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Api\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAcwDgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T20:56:49.635Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IStudentService.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Service\\Interfaces\\IStudentService.cs",
-              "RelativeDocumentMoniker": "..\\Service\\Interfaces\\IStudentService.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Service\\Interfaces\\IStudentService.cs",
-              "RelativeToolTip": "..\\Service\\Interfaces\\IStudentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T19:57:40.308Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AttendanceSessionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Infrastructure\\Repositories\\AttendanceSessionRepository.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\AttendanceSessionRepository.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Infrastructure\\Repositories\\AttendanceSessionRepository.cs",
-              "RelativeToolTip": "..\\Infrastructure\\Repositories\\AttendanceSessionRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T18:48:26.948Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DistanceSolverService.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Service\\Services\\DistanceSolverService.cs",
-              "RelativeDocumentMoniker": "..\\Service\\Services\\DistanceSolverService.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Service\\Services\\DistanceSolverService.cs",
-              "RelativeToolTip": "..\\Service\\Services\\DistanceSolverService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:48:37.537Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AttendanceSessionService.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Service\\Services\\AttendanceSessionService.cs",
-              "RelativeDocumentMoniker": "..\\Service\\Services\\AttendanceSessionService.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Service\\Services\\AttendanceSessionService.cs",
-              "RelativeToolTip": "..\\Service\\Services\\AttendanceSessionService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAmwBUAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T15:53:45.639Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IAttendanceSessionService.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Service\\Interfaces\\IAttendanceSessionService.cs",
-              "RelativeDocumentMoniker": "..\\Service\\Interfaces\\IAttendanceSessionService.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Service\\Interfaces\\IAttendanceSessionService.cs",
-              "RelativeToolTip": "..\\Service\\Interfaces\\IAttendanceSessionService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T19:59:06.177Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IDistanceSolverService.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Service\\Interfaces\\IDistanceSolverService.cs",
-              "RelativeDocumentMoniker": "..\\Service\\Interfaces\\IDistanceSolverService.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Service\\Interfaces\\IDistanceSolverService.cs",
-              "RelativeToolTip": "..\\Service\\Interfaces\\IDistanceSolverService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:41:37.938Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IAttendanceRecordService.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Service\\Interfaces\\IAttendanceRecordService.cs",
-              "RelativeDocumentMoniker": "..\\Service\\Interfaces\\IAttendanceRecordService.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Service\\Interfaces\\IAttendanceRecordService.cs",
-              "RelativeToolTip": "..\\Service\\Interfaces\\IAttendanceRecordService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:29:21.538Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AttendanceRecordRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Infrastructure\\Repositories\\AttendanceRecordRepository.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\AttendanceRecordRepository.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Infrastructure\\Repositories\\AttendanceRecordRepository.cs",
-              "RelativeToolTip": "..\\Infrastructure\\Repositories\\AttendanceRecordRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T18:39:27.312Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IAttendanceRecordRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Infrastructure\\Interfaces\\IAttendanceRecordRepository.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\Interfaces\\IAttendanceRecordRepository.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Infrastructure\\Interfaces\\IAttendanceRecordRepository.cs",
-              "RelativeToolTip": "..\\Infrastructure\\Interfaces\\IAttendanceRecordRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T18:39:30.478Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IAttendanceSessionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Infrastructure\\Interfaces\\IAttendanceSessionRepository.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\Interfaces\\IAttendanceSessionRepository.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Infrastructure\\Interfaces\\IAttendanceSessionRepository.cs",
-              "RelativeToolTip": "..\\Infrastructure\\Interfaces\\IAttendanceSessionRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T18:47:36.413Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "MarkAttendanceRecordMapping.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Mapping\\AttendnaceRecordMapping\\RecordCommandMapping\\MarkAttendanceRecordMapping.cs",
-              "RelativeDocumentMoniker": "..\\Core\\Mapping\\AttendnaceRecordMapping\\RecordCommandMapping\\MarkAttendanceRecordMapping.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Mapping\\AttendnaceRecordMapping\\RecordCommandMapping\\MarkAttendanceRecordMapping.cs",
-              "RelativeToolTip": "..\\Core\\Mapping\\AttendnaceRecordMapping\\RecordCommandMapping\\MarkAttendanceRecordMapping.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAACGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T16:38:00.847Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AttendnaceRecordProfile.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Mapping\\AttendnaceRecordMapping\\AttendnaceRecordProfile.cs",
-              "RelativeDocumentMoniker": "..\\Core\\Mapping\\AttendnaceRecordMapping\\AttendnaceRecordProfile.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Mapping\\AttendnaceRecordMapping\\AttendnaceRecordProfile.cs",
-              "RelativeToolTip": "..\\Core\\Mapping\\AttendnaceRecordMapping\\AttendnaceRecordProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T16:36:08.807Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Router.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\MetaData\\Router.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\MetaData\\Router.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\MetaData\\Router.cs",
-              "RelativeToolTip": "..\\Domain\\MetaData\\Router.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAmwBwAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T18:53:14.902Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AttendanceSessionProfile.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Mapping\\AttendanceSessionMapping\\AttendanceSessionProfile.cs",
-              "RelativeDocumentMoniker": "..\\Core\\Mapping\\AttendanceSessionMapping\\AttendanceSessionProfile.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Mapping\\AttendanceSessionMapping\\AttendanceSessionProfile.cs",
-              "RelativeToolTip": "..\\Core\\Mapping\\AttendanceSessionMapping\\AttendanceSessionProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T17:11:28.209Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "MarkAttendanceCommandModel.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Features\\AttendanceRecords\\Commands\\Models\\Add\\MarkAttendanceCommandModel.cs",
-              "RelativeDocumentMoniker": "..\\Core\\Features\\AttendanceRecords\\Commands\\Models\\Add\\MarkAttendanceCommandModel.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Features\\AttendanceRecords\\Commands\\Models\\Add\\MarkAttendanceCommandModel.cs",
-              "RelativeToolTip": "..\\Core\\Features\\AttendanceRecords\\Commands\\Models\\Add\\MarkAttendanceCommandModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T16:17:44.587Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "AddSessionMapping.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Mapping\\AttendanceSessionMapping\\AttendanceSessionCommandMapping\\AddSessionMapping.cs",
-              "RelativeDocumentMoniker": "..\\Core\\Mapping\\AttendanceSessionMapping\\AttendanceSessionCommandMapping\\AddSessionMapping.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Mapping\\AttendanceSessionMapping\\AttendanceSessionCommandMapping\\AddSessionMapping.cs",
-              "RelativeToolTip": "..\\Core\\Mapping\\AttendanceSessionMapping\\AttendanceSessionCommandMapping\\AddSessionMapping.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T16:43:16.722Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "AddAttendnaceRecordDto.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Helpers\\Dtos\\AttendanceRecords\\AddAttendnaceRecordDto.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\Helpers\\Dtos\\AttendanceRecords\\AddAttendnaceRecordDto.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Helpers\\Dtos\\AttendanceRecords\\AddAttendnaceRecordDto.cs",
-              "RelativeToolTip": "..\\Domain\\Helpers\\Dtos\\AttendanceRecords\\AddAttendnaceRecordDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T16:13:28.422Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "AttendanceRecord.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Entities\\AttendanceRecord.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\Entities\\AttendanceRecord.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Entities\\AttendanceRecord.cs",
-              "RelativeToolTip": "..\\Domain\\Entities\\AttendanceRecord.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAQAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:34:25.641Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "AttendanceSessionQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Features\\AttendanceSessions\\Queries\\Handlers\\AttendanceSessionQueryHandler.cs",
-              "RelativeDocumentMoniker": "..\\Core\\Features\\AttendanceSessions\\Queries\\Handlers\\AttendanceSessionQueryHandler.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Features\\AttendanceSessions\\Queries\\Handlers\\AttendanceSessionQueryHandler.cs",
-              "RelativeToolTip": "..\\Core\\Features\\AttendanceSessions\\Queries\\Handlers\\AttendanceSessionQueryHandler.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAIAxwCwAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T13:48:44.565Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "AttendanceSessionsController.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Api\\Controllers\\AttendanceSessionsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AttendanceSessionsController.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Api\\Controllers\\AttendanceSessionsController.cs",
-              "RelativeToolTip": "Controllers\\AttendanceSessionsController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAABwAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T17:44:12.369Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "GetLocationsQueryMapping.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Mapping\\LocationMapping\\LocationQueryMapping\\GetLocationsQueryMapping.cs",
-              "RelativeDocumentMoniker": "..\\Core\\Mapping\\LocationMapping\\LocationQueryMapping\\GetLocationsQueryMapping.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Mapping\\LocationMapping\\LocationQueryMapping\\GetLocationsQueryMapping.cs",
-              "RelativeToolTip": "..\\Core\\Mapping\\LocationMapping\\LocationQueryMapping\\GetLocationsQueryMapping.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T14:46:00.27Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "GetSessionsQueryResponse.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Features\\AttendanceSessions\\Queries\\Responses\\GetSessionsQueryResponse.cs",
-              "RelativeDocumentMoniker": "..\\Core\\Features\\AttendanceSessions\\Queries\\Responses\\GetSessionsQueryResponse.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Features\\AttendanceSessions\\Queries\\Responses\\GetSessionsQueryResponse.cs",
-              "RelativeToolTip": "..\\Core\\Features\\AttendanceSessions\\Queries\\Responses\\GetSessionsQueryResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T14:30:07.045Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "GetSessionsQueryMapping.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Mapping\\AttendanceSessionMapping\\AttendanceSessionQueryMapping\\GetSessionsQueryMapping.cs",
-              "RelativeDocumentMoniker": "..\\Core\\Mapping\\AttendanceSessionMapping\\AttendanceSessionQueryMapping\\GetSessionsQueryMapping.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Mapping\\AttendanceSessionMapping\\AttendanceSessionQueryMapping\\GetSessionsQueryMapping.cs",
-              "RelativeToolTip": "..\\Core\\Mapping\\AttendanceSessionMapping\\AttendanceSessionQueryMapping\\GetSessionsQueryMapping.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAABJwAoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T14:42:52.974Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "GetSessionQueryResponse.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Features\\AttendanceSessions\\Queries\\Responses\\GetSessionQueryResponse.cs",
-              "RelativeDocumentMoniker": "..\\Core\\Features\\AttendanceSessions\\Queries\\Responses\\GetSessionQueryResponse.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Features\\AttendanceSessions\\Queries\\Responses\\GetSessionQueryResponse.cs",
-              "RelativeToolTip": "..\\Core\\Features\\AttendanceSessions\\Queries\\Responses\\GetSessionQueryResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T13:47:42.241Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
               "Title": "ViewSessionDto.cs",
               "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Helpers\\Dtos\\AttedanceSessions\\ViewSessionDto.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Helpers\\Dtos\\AttedanceSessions\\ViewSessionDto.cs",
               "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Helpers\\Dtos\\AttedanceSessions\\ViewSessionDto.cs",
               "RelativeToolTip": "..\\Domain\\Helpers\\Dtos\\AttedanceSessions\\ViewSessionDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T16:21:53.303Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "ViewLocationMapping.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Mapping\\LocationMapping\\LocationQueryMapping\\ViewLocationMapping.cs",
-              "RelativeDocumentMoniker": "..\\Core\\Mapping\\LocationMapping\\LocationQueryMapping\\ViewLocationMapping.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Mapping\\LocationMapping\\LocationQueryMapping\\ViewLocationMapping.cs",
-              "RelativeToolTip": "..\\Core\\Mapping\\LocationMapping\\LocationQueryMapping\\ViewLocationMapping.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T13:58:18.007Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "GetSessionQueryModel.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Features\\AttendanceSessions\\Queries\\Models\\GetSessionQueryModel.cs",
-              "RelativeDocumentMoniker": "..\\Core\\Features\\AttendanceSessions\\Queries\\Models\\GetSessionQueryModel.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Features\\AttendanceSessions\\Queries\\Models\\GetSessionQueryModel.cs",
-              "RelativeToolTip": "..\\Core\\Features\\AttendanceSessions\\Queries\\Models\\GetSessionQueryModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T13:46:59.371Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "ViewSessionMapping.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Mapping\\AttendanceSessionMapping\\AttendanceSessionQueryMapping\\ViewSessionMapping.cs",
-              "RelativeDocumentMoniker": "..\\Core\\Mapping\\AttendanceSessionMapping\\AttendanceSessionQueryMapping\\ViewSessionMapping.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Mapping\\AttendanceSessionMapping\\AttendanceSessionQueryMapping\\ViewSessionMapping.cs",
-              "RelativeToolTip": "..\\Core\\Mapping\\AttendanceSessionMapping\\AttendanceSessionQueryMapping\\ViewSessionMapping.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T18:42:39.944Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "LocationService.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Service\\Services\\LocationService.cs",
-              "RelativeDocumentMoniker": "..\\Service\\Services\\LocationService.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Service\\Services\\LocationService.cs",
-              "RelativeToolTip": "..\\Service\\Services\\LocationService.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAABJwCIAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T17:10:42.011Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "AddSessionCommandModel.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Features\\AttendanceSessions\\Commands\\Models\\Add\\AddSessionCommandModel.cs",
-              "RelativeDocumentMoniker": "..\\Core\\Features\\AttendanceSessions\\Commands\\Models\\Add\\AddSessionCommandModel.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Features\\AttendanceSessions\\Commands\\Models\\Add\\AddSessionCommandModel.cs",
-              "RelativeToolTip": "..\\Core\\Features\\AttendanceSessions\\Commands\\Models\\Add\\AddSessionCommandModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T16:03:01.08Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "AttedanaceSessionCommandHandlers.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Features\\AttendanceSessions\\Commands\\Handlers\\AttedanaceSessionCommandHandlers.cs",
-              "RelativeDocumentMoniker": "..\\Core\\Features\\AttendanceSessions\\Commands\\Handlers\\AttedanaceSessionCommandHandlers.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\Features\\AttendanceSessions\\Commands\\Handlers\\AttedanaceSessionCommandHandlers.cs",
-              "RelativeToolTip": "..\\Core\\Features\\AttendanceSessions\\Commands\\Handlers\\AttedanaceSessionCommandHandlers.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAxwC4AAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T17:39:19.159Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "20240508193506_ update AttendanceSession.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Infrastructure\\Migrations\\20240508193506_ update AttendanceSession.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\Migrations\\20240508193506_ update AttendanceSession.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Infrastructure\\Migrations\\20240508193506_ update AttendanceSession.cs",
-              "RelativeToolTip": "..\\Infrastructure\\Migrations\\20240508193506_ update AttendanceSession.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T19:35:07.094Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "20240508193925_update AttendanceSession.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Infrastructure\\Migrations\\20240508193925_update AttendanceSession.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\Migrations\\20240508193925_update AttendanceSession.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Infrastructure\\Migrations\\20240508193925_update AttendanceSession.cs",
-              "RelativeToolTip": "..\\Infrastructure\\Migrations\\20240508193925_update AttendanceSession.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T19:39:25.168Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "ModuleCoreDependencies.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\ModuleCoreDependencies.cs",
-              "RelativeDocumentMoniker": "..\\Core\\ModuleCoreDependencies.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Core\\ModuleCoreDependencies.cs",
-              "RelativeToolTip": "..\\Core\\ModuleCoreDependencies.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAABJwAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T17:26:52.549Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "20240508193641_update AttendanceSession which add EndAt.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Infrastructure\\Migrations\\20240508193641_update AttendanceSession which add EndAt.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\Migrations\\20240508193641_update AttendanceSession which add EndAt.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Infrastructure\\Migrations\\20240508193641_update AttendanceSession which add EndAt.cs",
-              "RelativeToolTip": "..\\Infrastructure\\Migrations\\20240508193641_update AttendanceSession which add EndAt.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAABJwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T19:36:41.217Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "AddSessionDto.cs",
-              "DocumentMoniker": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Helpers\\Dtos\\AttedanceSessions\\AddSessionDto.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\Helpers\\Dtos\\AttedanceSessions\\AddSessionDto.cs",
-              "ToolTip": "C:\\Users\\sohee\\source\\repos\\AttendanceService\\src\\Domain\\Helpers\\Dtos\\AttedanceSessions\\AddSessionDto.cs",
-              "RelativeToolTip": "..\\Domain\\Helpers\\Dtos\\AttedanceSessions\\AddSessionDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T16:04:09.749Z"
+              "WhenOpened": "2024-06-05T14:55:36.696Z",
+              "EditorCaption": ""
             }
           ]
         }

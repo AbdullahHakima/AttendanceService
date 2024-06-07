@@ -46,7 +46,7 @@ namespace Infrastructure.Migrations
                     b.Property<double>("StudentLongitude")
                         .HasColumnType("double precision");
 
-                    b.Property<DateTime>("SubmissionTimestamp")
+                    b.Property<DateTimeOffset>("SubmissionTimestamp")
                         .HasColumnType("timestamp with time zone");
 
                     b.HasKey("Id");
@@ -67,7 +67,7 @@ namespace Infrastructure.Migrations
                     b.Property<Guid>("CourseId")
                         .HasColumnType("uuid");
 
-                    b.Property<DateTime>("EndAt")
+                    b.Property<DateTimeOffset>("EndAt")
                         .HasColumnType("timestamp with time zone");
 
                     b.Property<Guid>("InstructorId")
@@ -88,7 +88,7 @@ namespace Infrastructure.Migrations
                     b.Property<double>("Radius")
                         .HasColumnType("double precision");
 
-                    b.Property<DateTime>("StartAt")
+                    b.Property<DateTimeOffset>("StartAt")
                         .HasColumnType("timestamp with time zone");
 
                     b.HasKey("Id");

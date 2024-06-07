@@ -14,7 +14,7 @@ public class AttendanceRecord
     public Guid StudentId { get; set; }
     public Student Student { get; set; } // Navigation property
 
-    public DateTime SubmissionTimestamp { get; set; }
+    public DateTimeOffset SubmissionTimestamp { get; set; }
 
     public double StudentLatitude { get; set; }
 

@@ -17,6 +17,6 @@ public class AttendanceSessionRepository : GenericRepositoryAsync<AttendanceSess
 
     public async Task<List<AttendanceSession>> GetEndedSessionsAsync()
     {
-        return await _attendanceSessions.Where(s => s.EndAt.ToLocalTime() < DateTime.Now).ToListAsync();
+        return await _attendanceSessions.Where(s => s.EndAt < DateTimeOffset.UtcNow).ToListAsync();
     }
 }
